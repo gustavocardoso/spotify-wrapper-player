@@ -1,4 +1,5 @@
 export default function renderAlbumInfo (data, element) {
+  console.log(data)
   const markup = `<img class="album-image" src="${data.images[0].url}" alt="${
     data.name
   }"><p class="album-title">${data.name}</p><p class="album-artist">${

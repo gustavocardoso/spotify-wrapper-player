@@ -2,7 +2,7 @@ import SpotifyWrapper from 'gus-spotify-wrapper'
 
 const spotify = new SpotifyWrapper({
   token:
-    'BQAopJM3S_9CBOpjXWCk60-vLhChSw1wXZRAMZj1rQFp1JpvYxhUesfxxDhJgVpTWBK1ftlLU_wrkiXIuIebfsdH9ibXuEzGU_CD3rjZgOXsTxrJnhvrPKiXo6Dk58Gc85eEQi8XuOQofw6pEIsHoecjbB6Icz88wgzClpfTlDlM1GXY1C-HpkttAk-J9IyTFIOF9yui-BDLTJjrPrnnt_BCNFx6uYtw3fKPhiGTQW3ttc02YfNTngoFPxBN2uCC10rbNdT-rHxpiA'
+    'BQA63oA03dA_l5D93DGbiY0VyMOhFC6aoO1IQbvrJwVnJcPICsxPazH2AORILC08fN87uuJjrEBo1O-msLLeAv6sIshUA4IWSkLgtwTnusAXyutbPh5W5vk18Dcn3_SMdQmBbPgyUR5_NID9K1cS0-RrNEIixOqyR_M1Pn4vknBxKlKsPDgmhXKxupFezgR82zcN2mzLmrBMLtlEzqrtI_xhjGi9B5Eev1r0meqemF8bY47POnT8AQjpVAdL4Yfqvkto4HRSC--4MQ'
 })
 
 export default spotify

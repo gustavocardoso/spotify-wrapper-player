@@ -10,7 +10,7 @@ describe('Spotify', () => {
     expect(spotify.search).to.exist
   })
 
-  it('shoudl have album methods', () => {
+  it('should have album methods', () => {
     expect(spotify.album).to.exist
   })
 })
